@@ -1,0 +1,1 @@
+Canteen Management System-A console based project made using Python and MySQL.It is based on Canteen services such ordering food,student details,total earnings,items in stock,a basic authentication.It was aimed to learn how softwares are developed and it was made by team of two including me.
